@@ -42,12 +42,8 @@ function secretSanta(namesList) {
   return results;
 }
 
-function randomArray(array) {
-  let limit = array.length;
-}
-
 //uncomment the below to test the code
-//console.log(secretSanta(["abby", "ben", "colm", "denzel"]));
+//console.log(secretSanta(["name1", "name2", "name3", "name4"]));
 
 //to run: type
 // node secretsanta.js
